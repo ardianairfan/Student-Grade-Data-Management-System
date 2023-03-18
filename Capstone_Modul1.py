@@ -71,7 +71,7 @@ Masukkan nomor menu yang dipilih : ''')
         run = 0
     else:
         print('-'*140)
-        print('Silahkan masukkan angka sesuai pilihan menu yang tersedia dibawah.\n ')
+        print('Silahkan masukkan angka sesuai pilihan menu yang tersedia dibawah.')
         mainMenu()
 
 # READ DATA ()
