@@ -335,10 +335,10 @@ def delData():
                             print('-'*140)
                             print('Data Berhasil Dihapus')
                             dataStudent()
-                            break
                     else:
                             print('-'*140)
                             print('Data Tidak Dihapus')
+                    break
                 elif (i == len(gradeStudent)-1):
                         print('-'*140)
                         print('Student Code Tidak Ditemukan')
