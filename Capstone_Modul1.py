@@ -2,36 +2,36 @@
 gradeStudent = [
     {   
         'Student Code': 'JCDS-0206-001',
-        'Nama': 'Ardiana',
-        'Modul 1': 95,
+        'Nama'    : 'Ardiana',
+        'Modul 1' : 95,
         'Modul 2' : 100,
         'Modul 3' : 100
     },
     {   
         'Student Code': 'JCDS-0206-002',
-        'Nama': 'Berlian',
-        'Modul 1': 75,
+        'Nama'    : 'Berlian',
+        'Modul 1' : 75,
         'Modul 2' : 80,
         'Modul 3' : 95
     },
     {   
-    'Student Code': 'JCDS-0206-003',
-        'Nama': 'Cintya',
-        'Modul 1': 95,
+        'Student Code': 'JCDS-0206-003',
+        'Nama'    : 'Cintya',
+        'Modul 1' : 95,
         'Modul 2' : 90,
         'Modul 3' : 85
     },
     {   
         'Student Code': 'JCDS-0206-004',
-        'Nama': 'Denise',
-        'Modul 1': 85,
+        'Nama'    : 'Denise',
+        'Modul 1' : 85,
         'Modul 2' : 80,
         'Modul 3' : 90
     },
     {   
         'Student Code': 'JCDS-0206-005',
-        'Nama': 'Erlangga',
-        'Modul 1': 70,
+        'Nama'    : 'Erlangga',
+        'Modul 1' : 70,
         'Modul 2' : 90,
         'Modul 3' : 65
     }
