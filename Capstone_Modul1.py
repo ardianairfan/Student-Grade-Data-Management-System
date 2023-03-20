@@ -289,6 +289,7 @@ def updateData():
                         else:
                             print('-'*140)
                             print('Data Tidak Diubah')
+                        break 
                 elif (i == len(gradeStudent)-1):
                     print('-'*140)
                     print('Student Code Tidak Ditemukan')
